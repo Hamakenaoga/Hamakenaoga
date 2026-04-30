@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 স্বাগতম! আমরা "হামাকে নওগাঁ" 🩸
 
-<!--
-**Hamakenaoga/Hamakenaoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🩸 আমাদের লক্ষ্য
+নওগাঁ জেলার মানুষের জন্য জরুরি প্রয়োজনে **রক্তদাতা** খুঁজে পেতে এবং মানবিক সেবা নিশ্চিত করতে আমরা কাজ করি।
 
-Here are some ideas to get you started:
+### 👥 অ্যাডমিন প্যানেল
+| নাম | ফেসবুক প্রোফাইল |
+| :--- | :--- |
+| **ইউনুস আলী** | [📩 যোগাযোগ](https://www.facebook.com/YounusAli.fb) |
+| **মিজানুর রহমান** | [📩 যোগাযোগ](https://www.facebook.com/mizanur110) |
+| **মোহাম্মদ রায়হান** | [📩 যোগাযোগ](https://www.facebook.com/mohammad.raihan.10441) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📢 আমাদের সাথে যুক্ত থাকুন
+👉 **[ফেসবুক পেজ](https://www.facebook.com/Hamakenaoga)** 👉 **[অফিসিয়াল ওয়েবসাইট](https://hamakenaoga.github.io/Hamake-Naogaon/)**
+
+---
+© ২০২০-২০২৬ | **হামাকে নওগাঁ** | নওগাঁর প্রয়োজনে...
