@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Hamakenaoga/Hamake-Naogaon/main/cover.png" alt="Hamake Naogaon Cover" width="100%">
 </p>
 
-# <p align="center">হামাকে নওগাঁ: আমাদের আবেগ, আমাদের গর্ব 🌾</p>
+# <p align="center">হামাকে নওগাঁ: আমাদের আবেগ, আমাদের গর্ব </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/নওগাঁর_সেবায়-Official-006a4e?style=for-the-badge" /> <img src="https://img.shields.io/badge/দুর্নীতি_বিরোধী-Zero_Tolerance-red?style=for-the-badge&logo=shield" /> <img src="https://img.shields.io/badge/মানবিক_সাহায্য-২৪/৭-118ab2?style=for-the-badge&logo=heart" />
