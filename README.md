@@ -1,15 +1,17 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> হামাকে নওগাঁ: আমাদের আবেগ, আমাদের গর্ব 🌾
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hamakenaoga/Hamake-Naogaon/main/cover.png" alt="Hamake Naogaon Cover" width="100%">
+</p>
+
+# <p align="center">হামাকে নওগাঁ: আমাদের আবেগ, আমাদের গর্ব 🌾</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/নওগাঁর_প্রতিচ্ছবি-Official-006a4e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/দুর্নীতি_বিরোধী-Zero_Tolerance-red?style=for-the-badge&logo=shield" />
-  <img src="https://img.shields.io/badge/মানবিক_সাহায্য-২৪/৭-118ab2?style=for-the-badge&logo=heart" />
+<img src="https://img.shields.io/badge/নওগাঁর_সেবায়-Official-006a4e?style=for-the-badge" /> <img src="https://img.shields.io/badge/দুর্নীতি_বিরোধী-Zero_Tolerance-red?style=for-the-badge&logo=shield" /> <img src="https://img.shields.io/badge/মানবিক_সাহায্য-২৪/৭-118ab2?style=for-the-badge&logo=heart" />
 </p>
 
 ---
 
 ### 🏛️ আমাদের পরিচয় ও উদ্দেশ্য
-**"হামাকে নওগাঁ"** নওগাঁর মাটি ও মানুষের কথা বলে। আমরা কেবল একটি ডিজিটাল প্ল্যাটফর্ম নই, আমরা নওগাঁর মানুষের আপদে-বিপদে আস্থার একটি শক্ত খুঁটি। অন্যায়ের প্রতিবাদ, দুর্নীতির বিরুদ্ধে রুখে দাঁড়ানো এবং অসহায় মানুষের সেবায় আমরা সবসময় রাজপথে এবং অনলাইনে সোচ্চার। 
+**"হামাকে নওগাঁ"** নওগাঁর মাটি ও মানুষের কথা বলে। অন্যায়ের প্রতিবাদ, দুর্নীতির বিরুদ্ধে রুখে দাঁড়ানো এবং অসহায় মানুষের সেবায় আমরা সবসময় রাজপথে এবং অনলাইনে সোচ্চার। 
 
 ---
 
@@ -21,32 +23,27 @@
 
 ---
 
-### 👥 আমাদের অ্যাডমিন প্যানেল (Administrative Team)
-যেকোনো সংবাদ, সরাসরি সহযোগিতা বা আইনি পরামর্শের জন্য আমাদের সাথে যুক্ত হোন:
+### 👥 অ্যাডমিন প্যানেল (Administrative Team)
+যেকোনো সংবাদ বা সরাসরি সহযোগিতার জন্য আমাদের সাথে যোগাযোগ করুন:
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" width="25" /> নাম | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Laptop.png" width="25" /> ভূমিকা | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Direct%20Hit.png" width="25" /> যোগাযোগ (Facebook) |
+| নাম | উপজেলা | ফেসবুক প্রোফাইল |
 | :--- | :--- | :--- |
-| **ইউনুস আলী** | Chief Admin | [👤 প্রোফাইল দেখুন](https://www.facebook.com/YounusAli.fb) |
-| **মিজানুর রহমান** | Admin & Technical | [👤 প্রোফাইল দেখুন](https://www.facebook.com/mizanur110) |
-| **মোহাম্মদ রায়হান** | Admin & PR | [👤 প্রোফাইল দেখুন](https://www.facebook.com/mohammad.raihan.10441) |
+| **ইউনুস আলী** | অ্যাডমিন (রানীনগর) | [👤 যোগাযোগ](https://www.facebook.com/YounusAli.fb) |
+| **মিজানুর রহমান** | অ্যাডমিন (মান্দা) | [👤 যোগাযোগ](https://www.facebook.com/mizanur110) |
+| **মোহাম্মদ রায়হান** | অ্যাডমিন (বদলগাছী) | [👤 যোগাযোগ](https://www.facebook.com/mohammad.raihan.10441) |
 
 ---
 
 ### 📢 আমাদের সাথে যুক্ত থাকুন
-নওগাঁর প্রতিটি খবরের সাথে থাকতে এবং আমাদের সামাজিক উদ্যোগে অংশ নিতে লাইক দিন আমাদের অফিসিয়াল পেজে:
+নওগাঁর প্রতিটি খবরের সাথে থাকতে আমাদের পেজ ও ওয়েবসাইট ভিজিট করুন:
 
 <p align="left">
-  <a href="https://www.facebook.com/Hamakenaoga" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-হামাকে_নওগাঁ_পেজ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://hamakenaoga.github.io/Hamake-Naogaon/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-অফিসিয়াল_পোর্টাল-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<a href="https://www.facebook.com/Hamakenaoga" target="_blank"><img src="https://img.shields.io/badge/Facebook-হামাকে_নওগাঁ_পেজ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://hamakenaoga.github.io/Hamake-Naogaon/" target="_blank"><img src="https://img.shields.io/badge/Website-অফিসিয়াল_পোর্টাল-green?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>"নওগাঁর প্রয়োজনে, দুর্নীতির বিরুদ্ধে, আমরা আছি সবসময় একসাথে"</b> <br>
-  © ২০২০-২০২৬ | <b>হামাকে নওগাঁ</b> | সত্য ও ন্যায়ের পথে অবিচল।
+<b>"অন্যায় দেখলে সোচ্চার হই, নওগাঁবাসীর পাশে রই"</b> <br>
+© ২০২০-২০২৬ | <b>হামাকে নওগাঁ</b> | সত্য ও ন্যায়ের পথে অবিচল।
 </p>
