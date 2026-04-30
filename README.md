@@ -5,7 +5,9 @@
 # <p align="center">হামাকে নওগাঁ: আমাদের আবেগ, আমাদের গর্ব </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/নওগাঁর_সেবায়-Official-006a4e?style=for-the-badge" /> <img src="https://img.shields.io/badge/দুর্নীতি_বিরোধী-Zero_Tolerance-red?style=for-the-badge&logo=shield" /> <img src="https://img.shields.io/badge/মানবিক_সাহায্য-২৪/৭-118ab2?style=for-the-badge&logo=heart" />
+  <img src="https://img.shields.io/badge/Service-Official-006a4e?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Corruption-Zero_Tolerance-red?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Help-24/7-118ab2?style=for-the-badge&logo=heart" />
 </p>
 
 ---
@@ -16,34 +18,37 @@
 ---
 
 ### 🛡️ আমরা কী করি (Our Mission)
-* 🛑 **দুর্নীতি প্রতিরোধ:** সমাজের যেকোনো স্তরের অনিয়ম ও দুর্নীতির চিত্র তুলে ধরা এবং সত্য প্রচারে আপসহীন থাকা।
-* 🤝 **সামাজিক সহযোগিতা:** যেকোনো মানবিক সাহায্য, প্রশাসনিক সহযোগিতা এবং এলাকার মানুষের যেকোনো সমস্যায় পাশে দাঁড়ানো।
-* 📰 **তথ্য ও নিউজ:** নওগাঁর প্রতিদিনের গুরুত্বপূর্ণ আপডেট এবং ঐতিহাসিক ঐতিহ্যের নিয়মিত প্রচার।
-* 🩸 **জরুরি রক্তদান:** জেলার প্রতিটি উপজেলায় দ্রুততম সময়ে রক্তদাতা খুঁজে দেওয়ার নিরন্তর প্রচেষ্টা।
+* 🛑 **দুর্নীতি প্রতিরোধ:** সমাজের যেকোনো স্তরের অনিয়ম ও দুর্নীতির চিত্র তুলে ধরা।
+* 🤝 **সামাজিক সহযোগিতা:** যেকোনো মানবিক সাহায্য ও প্রশাসনিক সহযোগিতা নিশ্চিত করা।
+* 📰 **তথ্য ও নিউজ:** নওগাঁর প্রতিদিনের আপডেট এবং ঐতিহ্য প্রচার করা।
+* 🩸 **জরুরি রক্তদান:** জেলার প্রতিটি উপজেলায় দ্রুততম সময়ে রক্তদাতা খুঁজে দেওয়া।
 
 ---
 
-### 👥 অ্যাডমিন প্যানেল (Administrative Team)
+### 👥 অ্যাডমিন প্যানেল
 যেকোনো সংবাদ বা সরাসরি সহযোগিতার জন্য আমাদের সাথে যোগাযোগ করুন:
 
-| নাম | উপজেলা | ফেসবুক প্রোফাইল |
+| নাম | উপজেলা | যোগাযোগ |
 | :--- | :--- | :--- |
-| **ইউনুস আলী** | অ্যাডমিন (রানীনগর) | [👤 যোগাযোগ](https://www.facebook.com/YounusAli.fb) |
-| **মিজানুর রহমান** | অ্যাডমিন (মান্দা) | [👤 যোগাযোগ](https://www.facebook.com/mizanur110) |
-| **মোহাম্মদ রায়হান** | অ্যাডমিন (বদলগাছী) | [👤 যোগাযোগ](https://www.facebook.com/mohammad.raihan.10441) |
+| **ইউনুস আলী** | অ্যাডমিন (রানীনগর) | [👤 ফেসবুক](https://www.facebook.com/YounusAli.fb) |
+| **মিজানুর রহমান** | অ্যাডমিন (মান্দা) | [👤 ফেসবুক](https://www.facebook.com/mizanur110) |
+| **মোহাম্মদ রায়হান** | অ্যাডমিন (বদলগাছী) | [👤 ফেসবুক](https://www.facebook.com/mohammad.raihan.10441) |
 
 ---
 
 ### 📢 আমাদের সাথে যুক্ত থাকুন
-নওগাঁর প্রতিটি খবরের সাথে থাকতে আমাদের পেজ ও ওয়েবসাইট ভিজিট করুন:
-
 <p align="left">
-<a href="https://www.facebook.com/Hamakenaoga" target="_blank"><img src="https://img.shields.io/badge/Facebook-হামাকে_নওগাঁ_পেজ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://hamakenaoga.github.io/Hamake-Naogaon/" target="_blank"><img src="https://img.shields.io/badge/Website-অফিসিয়াল_পোর্টাল-green?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.facebook.com/Hamakenaoga" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="https://hamakenaoga.github.io/Hamake-Naogaon/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portal-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<b>"অন্যায় দেখলে সোচ্চার হই, নওগাঁবাসীর পাশে রই"</b> <br>
-© ২০২০-২০২৬ | <b>হামাকে নওগাঁ</b> | সত্য ও ন্যায়ের পথে অবিচল।
+  <b>"অন্যায় দেখলে সোচ্চার হই, নওগাঁবাসীর পাশে রই"</b> <br>
+  © ২০২০-২০২৬ | <b>হামাকে নওগাঁ</b>
 </p>
